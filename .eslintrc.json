@@ -30,6 +30,11 @@
           "ts": "never"
         }
       ],
+      "camelcase": [
+        {
+          "properties": "never"
+        }
+      ],
       "prettier/prettier": "error",
       "class-methods-use-this": "off"
     },
